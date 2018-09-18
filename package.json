@@ -1,0 +1,14 @@
+{
+  "name": "index.js",
+  "version": "1.0.0",
+  "description": "a new story",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BlackNight",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
